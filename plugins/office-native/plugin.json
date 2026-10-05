@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "office-native",
+  "version": "0.1.0",
+  "description": "Route Codex Office edits to a connected document, desktop app, cloud document, or local file.",
+  "repository": "https://github.com/JunkaiWang-TheoPhy/office-native",
+  "license": "Apache-2.0",
+  "keywords": ["office", "documents", "presentations", "spreadsheets", "codex"]
+}

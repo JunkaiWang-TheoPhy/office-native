@@ -1,0 +1,17 @@
+{
+  "name": "office-native-repo",
+  "plugins": [
+    {
+      "name": "office-native",
+      "source": {
+        "source": "local",
+        "path": "./plugins/office-native"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
